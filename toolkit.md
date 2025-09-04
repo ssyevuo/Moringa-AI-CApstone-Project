@@ -33,15 +33,15 @@ Moringa-AI-Capstone-Project/
 
 ### 1. Install JDK
 ```bash
-sudo apt update
-sudo apt install openjdk-17-jdk
-java -version
+    sudo apt update
+    sudo apt install openjdk-17-jdk
+    java -version
 ```
 
 ### 2. Install Gradle
 ```bash
-sudo snap install gradle --classic
-gradle -v
+    sudo snap install gradle --classic
+    gradle -v
 ```
 
 ## Calculator Project
